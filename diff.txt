@@ -1,0 +1,8 @@
+diff --git a/Test/Test.txt b/Test/Test.txt
+deleted file mode 100644
+index 6c05332..0000000
+--- a/Test/Test.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Fisrt edit - first change this only
+\ No newline at end of file
