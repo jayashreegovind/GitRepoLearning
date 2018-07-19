@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<TestCases
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns="urn:xmlns:p6:automatedverificationv1"
+  xsi:schemaLocation="urn:xmlns:p6:automatedverificationv1 ./AutomatedVerification.xsd"
+>
+  
+  <!-- 
+  This is a temporary solution to support deprecated HP ALM system.
+ Once the test cases are in a single system, this file is no longer needed.
+  -->
+
+  <Alm Id="Tfs">
+    <Test Name="Automated Uploading of Test Results" Id="f608e22da1e175f3c6705935d662f4e8c49ea364"/>
+    <Test Name="CI Remote Execution Error Codes" Id="01c1bb8b9a620fa99fefa0eb8f29df9b9bdd9bd6"/>
+    <Test Name="CI Tool Versions Check" Id="19b00983657c3c79379f88ff8895c925cf649d4e"/>
+    <Test Name="Python Mock Library Asserts" Id="6f2c17df06c5a857e18531e7ef9f0a00128ab001"/>
+    <Test Name="Python Unit Test Failure Detected" Id="652bb2fbf666cd85fb83b5c7bee44f3a1268f2bb"/>
+    <Test Name="Read Old Repositories from Artifactory" Id="46de2302e374d912ffdb5a63146700369f18a299"/>
+  </Alm>
+</TestCases>
